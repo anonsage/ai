@@ -37,6 +37,28 @@ Summary so far:
 - Everything is a 'characteristic'.
 - Group of one or more 'characteristic' is noun.
 
+#### Seeing the world as geometry ####
+We could use a basis for recognizing things as an intermediary language between human and machine.
+
+    ;; First main knowledge layer
+    0d point
+    1d distance
+    2d area
+    3d volume
+    4d change
+    
+    ;; Second main knowledge layer
+    dot
+    line ;; Not the strict definition of 'straight line'. This could also mean 'curly' line.
+    loop ;; Not 'circle'
+    texture ;; 'texture' may be better vocabulary than 'fill' (noun).
+    
+At any single point of time, we see a 2-dimensional representation of the world. Most people see two 2-dimensional representations of the world at a time.
+
+A 'flat-lander' (2D being) would only see a 1D view of its world at a single point in time. A 1D being only sees a 0D (or point) in its world.
+
+To continue this thought, a 4D being would be able to see 3D at a single point in time. Wow, our brains really have to be warped to think about how that would be done.
+
 
 
 ## Random Thoughts ##
